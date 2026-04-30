@@ -1,4 +1,9 @@
 # Alfred Chatbot
+<img width="1918" height="1012" alt="Screenshot 2026-05-01 022811" src="https://github.com/user-attachments/assets/b5323ac8-f521-4166-9a30-9ac2565e429f" />
+<img width="1918" height="1021" alt="Screenshot 2026-05-01 022717" src="https://github.com/user-attachments/assets/334f42d4-2121-4496-b729-d405c958df6c" />
+
+
+
 
 Custom company chatbot for Alfred Lab using LangChain and local FAISS storage.
 
